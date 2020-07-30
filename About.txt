@@ -1,3 +1,0 @@
-*This project is developed as a RFID door lock system.
-*The code is written on arduino platform.
-*The NodeMcu is the hardware unit is used for realization of the project.
